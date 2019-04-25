@@ -1,3 +1,4 @@
+test
 # How to set up a Ruby on Rails development environment
 
 Hi! if you're willing to contribute to  **FLOSScoach** these are the simple setps you must follow to get your local machine ready for development. Tough easy and simple, these steps are estimated to take up to 30min.
